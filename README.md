@@ -1,16 +1,11 @@
-### Hi there 👋
+# YongeChan｜Card
+About me😃:[here](https://yongechan.site/whoami/)
+MyBlog（zh-cn）（Record my daily😹）:[here](https://YongeChan.site)
+### Are doing thing👊
+* Be a student at school
+* Create Html and PHP project
+### BasicProjects
+*[Dabook](https://github.com/ChanYiCYJ/Dabook)
+*[MDcloud](https://github.com/ChanYiCYJ/MDcloud)
+* Coming soon
 
-<!--
-**ChanYiCYJ/ChanYiCYJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
